@@ -26,3 +26,5 @@ const averageRow = `
   </tr>
 `;
 tableBody.innerHTML += averageRow;
+
+
